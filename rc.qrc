@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sabaru-eye.png</file>
+        <file>sabaru-face.png</file>
+    </qresource>
+</RCC>
